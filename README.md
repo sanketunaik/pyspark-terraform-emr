@@ -20,9 +20,4 @@ terraform destroy
 * Configure AWS on your local machine: `aws configure`
 * [AWS instance cost](https://aws.amazon.com/emr/pricing/) for `eu-central-1`
 
-## Maintainers
-* Dat Tran, github: [datitran](https://github.com/datitran)
 
-## Copyright
-
-See [LICENSE](LICENSE) for details.
