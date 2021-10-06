@@ -1,9 +1,9 @@
 # EMR general configurations
 name = "airease-spark-app3"
 region = "us-east-1"
-subnet_id = "subnet-0bf732daadf73296b"
-vpc_id = "vpc-0d1cd9bdab3458cee"
-key_name = "aireasekeypair"
+subnet_id = ""
+vpc_id = ""
+key_name = ""
 ingress_cidr_blocks = "0.0.0.0/0"
 release_label = "emr-5.16.0"
 applications = ["Hadoop", "Spark"]
