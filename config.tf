@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
     encrypt = true
-    bucket  = "airease"
+    bucket  = ""
     key     = "terraform-emr-pyspark.tfstate"
     region  = "us-east-1"
   }
